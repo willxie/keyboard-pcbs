@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/wxie/projects/amoeba-keyboard-pcbs/amoeba-king/amoeba-king.kicad_sch</source>
+    <date>Sunday, May 01, 2022 at 10:18:19 PM</date>
+    <tool>Eeschema (6.0.4-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>15 sep 2015</date>
+        <source>amoeba-king.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/key/" tstamps="/00000000-0000-0000-0000-000055d92fdb/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>15 sep 2015</date>
+        <source>key.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/key/led/" tstamps="/00000000-0000-0000-0000-000055d92fdb/00000000-0000-0000-0000-000055dbae59/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>15 sep 2015</date>
+        <source>led.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/key/switch/" tstamps="/00000000-0000-0000-0000-000055d92fdb/00000000-0000-0000-0000-000055dbae5b/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>15 sep 2015</date>
+        <source>switch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Conn_01x04_Male</value>
+      <footprint>amoeba-modules:Header_1x04_P1.27mmL</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/Users/wxie/projects/amoeba-keyboard-pcbs/amoeba-king/amoeba-king.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ecf294a</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04_Male</value>
+      <footprint>amoeba-modules:Header_1x04_P1.27mm</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/Users/wxie/projects/amoeba-keyboard-pcbs/amoeba-king/amoeba-king.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ed091af</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04_Male</value>
+      <footprint>amoeba-modules:Header_1x04_P1.27mm</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/Users/wxie/projects/amoeba-keyboard-pcbs/amoeba-king/amoeba-king.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ed2e622</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x04_Male</value>
+      <footprint>amoeba-modules:Header_1x04_P1.27mmL</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/Users/wxie/projects/amoeba-keyboard-pcbs/amoeba-king/amoeba-king.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ed66f35</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x01_Male</value>
+      <footprint>amoeba-modules:Header_1x01_P1.27mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/Users/wxie/projects/amoeba-keyboard-pcbs/amoeba-king/amoeba-king.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ec458e5</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x01_Male</value>
+      <footprint>amoeba-modules:Header_1x01_P1.27mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/Users/wxie/projects/amoeba-keyboard-pcbs/amoeba-king/amoeba-king.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ec464e7</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>SK6812MINI_E</value>
+      <footprint>amoeba-modules:LED_SK6812MINI_E_PLCC4_3.2x2.8mm_Shine_Through</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="amoeba-king-rescue" part="SK6812MINI_E-amoeba-royale-rescue" description=""/>
+      <property name="Sheetname" value="led"/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/key/led/" tstamps="/00000000-0000-0000-0000-000055d92fdb/00000000-0000-0000-0000-000055dbae59/"/>
+      <tstamps>00000000-0000-0000-0000-00005ec279ec</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148W-7-F</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C2128"/>
+      <property name="Sheetname" value="switch"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <sheetpath names="/key/switch/" tstamps="/00000000-0000-0000-0000-000055d92fdb/00000000-0000-0000-0000-000055dbae5b/"/>
+      <tstamps>00000000-0000-0000-0000-00005ec43574</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>MX1A</value>
+      <footprint>amoeba-modules:Kailh_MX_Socket</footprint>
+      <fields>
+        <field name="LCSC">C2803348</field>
+      </fields>
+      <libsource lib="amoeba-king-rescue" part="MX1A-amoeba-rescue-amoeba-royale-rescue" description=""/>
+      <property name="LCSC" value="C2803348"/>
+      <property name="Sheetname" value="switch"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <sheetpath names="/key/switch/" tstamps="/00000000-0000-0000-0000-000055d92fdb/00000000-0000-0000-0000-000055dbae5b/"/>
+      <tstamps>00000000-0000-0000-0000-000055dbae7f</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x01_Male">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Male">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="amoeba-king-rescue" part="MX1A-amoeba-rescue-amoeba-royale-rescue">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">MX1A-amoeba-rescue-amoeba-royale-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="amoeba-king-rescue" part="SK6812MINI_E-amoeba-royale-rescue">
+      <footprints>
+        <fp>LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SK6812MINI_E-amoeba-royale-rescue</field>
+        <field name="Footprint">LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_out"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="amoeba-king-rescue">
+      <uri>/Users/wxie/projects/amoeba-keyboard-pcbs/amoeba-king/amoeba-king-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/C">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="/D1">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="3" name="/D2">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="4" name="/DIN">
+      <node ref="LED1" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="5" name="/DOUT">
+      <node ref="LED1" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="6" name="/GND">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="LED1" pin="3" pinfunction="VSS" pintype="power_out"/>
+    </net>
+    <net code="7" name="/R">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="S1" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="/VDD">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="LED1" pin="1" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="10" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="S1" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

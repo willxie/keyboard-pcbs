@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC
+"1N4148W-7-F","D1","Diode_SMD:D_SOD-123","C2128"
+"Conn_01x04_Male","J1,J4","amoeba-modules:Header_1x04_P1.27mmL",""
+"Conn_01x04_Male","J2,J3","amoeba-modules:Header_1x04_P1.27mm",""
+"Conn_01x01_Male","J5,J6","amoeba-modules:Header_1x01_P1.27mm",""
+"SK6812MINI_E","LED1","amoeba-modules:LED_SK6812MINI_E_PLCC4_3.2x2.8mm_Shine_Through",""
+"MX1A","S1","amoeba-modules:Kailh_MX_Socket","C2803348"
